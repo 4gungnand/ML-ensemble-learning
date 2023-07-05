@@ -1,5 +1,4 @@
-# Machine-Learning-Jupyter-ClusteringEnsemble
-Project machine learning
+# Machine learning
 Team:
 - Akatanya
 - Premaaa
